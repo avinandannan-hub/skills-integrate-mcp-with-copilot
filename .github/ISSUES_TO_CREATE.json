@@ -1,0 +1,19 @@
+[
+  {"title":"Membership & Registration: admin review and user profiles","body":"Add admin review/approval workflow and extended user profiles (bio, typing speed, year, mentor flag).","labels":["enhancement"],"assignees":["avinandannan-hub"]},
+  {"title":"Social OAuth: GitHub/Google login","body":"Add social OAuth login/registration via providers (GitHub, Google).","labels":["enhancement"],"assignees":["avinandannan-hub"]},
+  {"title":"Promotion/CMS pages and notifications","body":"Add promotional templates, application email notifications, and optional Telegram integration for alerts.","labels":["enhancement"],"assignees":["avinandannan-hub"]},
+  {"title":"Events & Workshops: rich model and admin flags","body":"Implement events/workshops with trainer bio, level, prerequisites, travel/accommodation/expense, lab requirements, and approval/publish flags.","labels":["enhancement"],"assignees":["avinandannan-hub"]},
+  {"title":"Project pages and mentor relationships","body":"Add project listing/detail pages, mentor/mentee links, and image uploads for projects.","labels":["enhancement"],"assignees":["avinandannan-hub"]},
+  {"title":"Achievements module","body":"Add achievements module: articles, internships, talks, contests, and GSoC timelines.","labels":["enhancement"],"assignees":["avinandannan-hub"]},
+  {"title":"Documents management","body":"Implement document uploads, catalog, and per-user access/update forms.","labels":["enhancement"],"assignees":["avinandannan-hub"]},
+  {"title":"Technical resources library","body":"Add categorized resources with external links and file uploads per category.","labels":["enhancement"],"assignees":["avinandannan-hub"]},
+  {"title":"Attendance logging & reporting","body":"Add attendance logging, client integration, and attendance percentage reports/admin views.","labels":["enhancement"],"assignees":["avinandannan-hub"]},
+  {"title":"Status updates & mailing list integration","body":"Add weekly status update system and mailing list configuration/sending.","labels":["enhancement"],"assignees":["avinandannan-hub"]},
+  {"title":"User-submitted content & moderation","body":"Add review/feedback forms and moderation workflows for user-submitted content.","labels":["enhancement"],"assignees":["avinandannan-hub"]},
+  {"title":"Admin UI & permissions","body":"Implement admin-driven content creation, verification, and a permission model.","labels":["enhancement"],"assignees":["avinandannan-hub"]},
+  {"title":"REST API & Authentication","body":"Add authenticated API endpoints (JWT) for status, attendance, documents, and user management.","labels":["enhancement"],"assignees":["avinandannan-hub"]},
+  {"title":"Rich form UX & editors","body":"Integrate TinyMCE or an alternative rich-text editor, datepickers, and enhanced form widgets.","labels":["enhancement"],"assignees":["avinandannan-hub"]},
+  {"title":"Persistent DB & media handling","body":"Migrate in-memory data to a persistent DB (Postgres/MySQL) and add media/static handling.","labels":["enhancement"],"assignees":["avinandannan-hub"]},
+  {"title":"Install & ops docs","body":"Add extended install and deployment docs (DB setup, migrations, production configs).","labels":["enhancement"],"assignees":["avinandannan-hub"]},
+  {"title":"Timeline / historical UI components","body":"Add timeline and historical UI components for club history and achievements.","labels":["enhancement"],"assignees":["avinandannan-hub"]}
+]
