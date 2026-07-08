@@ -1,2 +1,8 @@
 fastapi
 uvicorn
+sqlmodel
+databases
+aiofiles
+jinja2
+python-multipart
+requests
